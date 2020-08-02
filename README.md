@@ -1,5 +1,5 @@
 # time_series_analysis
-Forecasting the data for the upcoming time is always a better idea in order to drive buisnesses on a leading path. Time series analysis and forecast is a great measure for predicting the future (in a nutshell). Here in this repository I am managing the projects and ideas about the time series analysis using different datasets. 
+Forecasting the data for the upcoming time is always a better idea for driving buisnesses on a leading path. Time series analysis and forecast is a great measure for predicting the future (in a nutshell). Here in this repository I am managing the projects and ideas about the time series analysis using different datasets. 
 <p>
 Some notebooks are uploaded here as my work with time series data. I have used two datasets for the analysis.
 <ol>
